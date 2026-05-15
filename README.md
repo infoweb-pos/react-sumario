@@ -18,6 +18,7 @@
 3. Estilizando os componentes
 4. Bibliotecas de componentes
 5. Estados de componentes
-6. Formulários e validação de campos
+6. Rotas
+7. Formulários e validação de campos
 8. Persistência
 9. Gerenciamento de estados
