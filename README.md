@@ -22,3 +22,4 @@
 7. Formulários e validação de campos
 8. Persistência
 9. Gerenciamento de estados
+10. Autenticação e autorização
